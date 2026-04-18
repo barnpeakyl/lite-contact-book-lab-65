@@ -1,2 +1,9 @@
-# lite-contact-book-lab-65
-A simple contact book project
+# Contact Book
+
+A simple contact book project.
+\n
+## Getting Started
+
+```bash
+python contact.py
+```
